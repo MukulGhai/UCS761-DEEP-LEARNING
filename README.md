@@ -1,7 +1,7 @@
 # UCS761 – Deep Learning Lab Assignments
 
 Name: Mukul Ghai  
-Roll Number: 102303463
+Roll Number: 1023003463   
 Group: 3C33
 
 ---
