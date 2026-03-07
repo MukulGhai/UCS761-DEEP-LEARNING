@@ -88,8 +88,9 @@ DEEP_LEARNING/
 ├── LAB_1_Activation_Functions.ipynb  
 ├── Lab_2_Perceptron_Learning.ipynb  
 ├── Lab_3_Backpropagation_Algorithm.ipynb  
-├── Lab_4_Binary_Classification.ipynb  
-├── Lab_6_Breast_Cancer_Dataset_using_NN.ipynb   
+├── Lab_4_Binary_Classification.ipynb   
+├── Lab_5_Digit_Classification.ipynb      
+├── Lab_6_Breast_Cancer_Dataset_using_NN.ipynb    
 └── README.md  
 
 ---
