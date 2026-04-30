@@ -15,15 +15,24 @@ This repository contains the implementation of Deep Learning laboratory assignme
 UCS761-DEEP-LEARNING/
 │ 
 ├── DL_PROJECT/                  # Major Deep Learning Project 
+
 ├── Lab Assignments/             # All lab notebooks  
+
 │   ├── LAB_1_Activation_Functions.ipynb    
+
 │   ├── Lab_2_Perceptron_Learning.ipynb   
+
 │   ├── Lab_3_Backpropagation_Algorithm.ipynb    
+
 │   ├── Lab_4_Binary_Classification.ipynb     
+
 │   ├── Lab_5_Digit_Classification.ipynb    
+
 │   ├── Lab_6_Breast_Cancer_Dataset_using_NN.ipynb    
+
 │ 
 ├── Coursera DL/                 # Additional learning resources   
+
 └── README.md     
 
 ---
