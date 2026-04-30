@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1 Score,Params (M)
+MobileNetV3Large,0.9583,0.963,0.9583,0.9586,3.12
+ResNet50V2,0.9167,0.9295,0.9167,0.9097,23.83
+EfficientNetV2B0,0.9167,0.9295,0.9167,0.9164,6.08
+DenseNet121,0.875,0.8715,0.875,0.8708,7.17
+Custom_CNN,0.4583,0.2101,0.4583,0.2881,2.52
