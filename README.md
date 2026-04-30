@@ -13,6 +13,7 @@ This repository contains the implementation of Deep Learning laboratory assignme
 
 ## Repository Structure
 UCS761-DEEP-LEARNING/
+
 │ 
 ├── DL_PROJECT/                  # Major Deep Learning Project 
 
