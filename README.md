@@ -14,6 +14,7 @@ This repository contains the implementation of Deep Learning laboratory assignme
 ## Repository Structure
 UCS761-DEEP-LEARNING/
 │
+
 ├── DL_PROJECT/                  # Major Deep Learning Project
 ├── Lab Assignments/             # All lab notebooks
 │   ├── LAB_1_Activation_Functions.ipynb  
